@@ -33,6 +33,7 @@ const HomeStack = () => {
               headerTintColor: '#fff',
               headerTitleStyle: {
                 fontWeight: 'bold',
+                fontSize: 20,
             },
             headerTitleAlign: 'center',
             headerShadowVisible: false,
