@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 import { theme } from "../../theme/theme";
 
-export const CardCointsStyles = StyleSheet.create({
+export const CardCoinsStyles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#fff',
