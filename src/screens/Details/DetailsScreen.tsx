@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import { DefaultLayout } from '../../layout/DefaultLayout'
 import { TextInput, Button } from 'react-native';
 import { CoinData } from '../../interface/dataCrypto';
-import { Ic_ArrowDown, Ic_ArrowDownBold, Ic_ArrowLeft, Ic_ArrowRight, Ic_ArrowUp, Ic_ArrowUpBold } from '../../icons/IconsSvg';
+import { Ic_ArrowDown, Ic_ArrowDownBold, Ic_ArrowUpBold } from '../../icons/IconsSvg';
 import { theme } from '../../theme/theme';
 import ButtonCustom from '../../components/button/ButtonCustom';
 import { DetailsScreenSyles } from './styles';
