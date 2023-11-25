@@ -10,7 +10,7 @@ interface NumericKeyboardProps {
 
 const NumericKeyboard = ({ onKeyPress, onDeletePress} : NumericKeyboardProps) => {
   const renderButton = (value: string | JSX.Element, onPress: () => void, cross?: boolean) => (
-    <TouchableOpacity style={NumericKeyboardStyles.button} onPress={onPress}>
+    <TouchableOpacity activeOpacity={0.7} style={NumericKeyboardStyles.button} onPress={onPress}>
       {cross ? value : <Text style={NumericKeyboardStyles.buttonText}>{value}</Text>}
     </TouchableOpacity>
   );

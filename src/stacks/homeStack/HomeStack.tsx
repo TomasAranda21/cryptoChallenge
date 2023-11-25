@@ -37,7 +37,7 @@ const HomeStack = () => {
             headerTitleAlign: 'center',
             headerShadowVisible: false,
             headerLeft: () => (
-              <TouchableOpacity style={{marginLeft: 20}} onPress={() => navigation.goBack()}>
+              <TouchableOpacity style={{marginLeft: 20}} activeOpacity={0.8} onPress={() => navigation.goBack()}>
                   <Ic_ArrowLeft size={26} color='#fff'/>
               </TouchableOpacity>
             ),

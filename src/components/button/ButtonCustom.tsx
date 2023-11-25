@@ -10,7 +10,7 @@ interface ButtonCustomProps {
 
 const ButtonCustom = ({text, onPress}: ButtonCustomProps) => {
   return (
-    <TouchableOpacity style={ButtonCustomStyles.container}
+    <TouchableOpacity activeOpacity={0.8} style={ButtonCustomStyles.container}
     onPress={onPress}>
       <Text style={ButtonCustomStyles.text}>{text}</Text>
     </TouchableOpacity>
