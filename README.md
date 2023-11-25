@@ -21,8 +21,8 @@
 
 
 ## Capturas de pantalla
-![Home mostrando el dinero](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.01.19_eqnlik.png){ width=200px }
-![Home ocultando el dinero](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936216/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.48_zfiqmx.png){ width=50% }
-![El detalle de la crypto](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.50_qlkh5p.png){ width=50% }
-![Convertidor de Coins a USD](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936216/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.55_suukyt.png){ width=50% }
-![Convertidor de USD a Coins](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.01.04_yjo8py.png){ width=50% }
+![Home mostrando el dinero](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.01.19_eqnlik.png){ :width="200px" }
+![Home ocultando el dinero](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936216/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.48_zfiqmx.png){ :width="200px" }
+![El detalle de la crypto](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.50_qlkh5p.png)
+![Convertidor de Coins a USD](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936216/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.00.55_suukyt.png)
+![Convertidor de USD a Coins](https://res.cloudinary.com/dj1pp4ivb/image/upload/v1700936217/Simulator_Screenshot_-_iPhone_15_-_2023-11-25_at_15.01.04_yjo8py.png)
