@@ -47,7 +47,7 @@ export const AppTabs = () => {
       <Tab.Screen name="Home" options={({route}) =>  {
         const routeName = getFocusedRouteNameFromRoute(route);
         return {
-          tabBarStyle:routeName === 'HomeScreen' ? TabsStyles.withTaBar : TabsStyles.withOutTabBar
+          tabBarStyle: routeName === 'HomeScreen' || !routeName  ? TabsStyles.withTaBar : TabsStyles.withOutTabBar
         }
       }} component={HomeStack} />
       <Tab.Screen name="Market" component={HomeStack} />
