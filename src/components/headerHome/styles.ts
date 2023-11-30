@@ -38,8 +38,8 @@ export const HeaderHomeStyles = StyleSheet.create({
     notificationsCount: {
         backgroundColor: '#d8f476',
         borderRadius: 100,
-        width: 19,
-        height: 15,
+        width: 21,
+        height: 18,
         position: 'absolute',
         top: -5,
         right: -5,
