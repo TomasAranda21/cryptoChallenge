@@ -14,7 +14,8 @@ export const ButtonCustomStyles = StyleSheet.create({
     text: {
         textAlign: 'center', 
         fontSize: 18, 
-        fontWeight: '500'
+        fontWeight: '500',
+        color: theme.black
     }
 
 })

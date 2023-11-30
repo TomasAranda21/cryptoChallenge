@@ -19,7 +19,7 @@ const HeaderHome = () => {
                 </View>
 
                 <View style={HeaderHomeStyles.containerNotifications}>
-                    <Ic_Notification size={28} color='#fff' />
+                    <Ic_Notification size={30} color='#fff' />
                     <View style={HeaderHomeStyles.notificationsCount}>
                         <Text style={HeaderHomeStyles.textNotifications}>7</Text>
                     </View>
